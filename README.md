@@ -2,10 +2,10 @@
 
 𝗜'𝗺 [Nadun](https://github.com/IT21158704)！𝗜'𝗺 an Undergraduate 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/nadundilshan733)](https://twitter.com/nadundilshan733)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/nadundilshan733)](https://twitter.com/nadundilshan733)]
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadun.dilshan.733@gmail.com)](mailto:nadun.dilshan.733@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IT21158704)]
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=IT21158704)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=IT21158704)]
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yaronzz&show_icons=true&hide_border=true">
 
