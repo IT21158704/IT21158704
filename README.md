@@ -1,27 +1,41 @@
-# 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+<div align= "center">
+  <h3>Hello there! 👋</h3>
+  <strong>I am Nadun</strong>
+</div>
 
-I'm [Nadun](https://github.com/IT21158704)！I'm an Undergraduate 👨‍💻 Who is passionate about Programming.
+<hr/>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/nadundilshan733)](https://twitter.com/nadundilshan733)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nadun.dilshan.733@gmail.com)](mailto:nadun.dilshan.733@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IT21158704)](https://github.com/IT21158704)
-[![visitors](https://visitor-badge.laobi.icu/badge?page_id=IT21158704)]()
+<div align= "center">
+  <h4>A passionate Software Developer</h4>
+  <p>Welcome to my GitHub profile</p>
+</div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=IT21158704&show_icons=true&hide_border=true">
+<br>
 
-## 🧐 About
+- Profile views:
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-IT21158704" alt="Profile Views">
+  </p>
+- GitHub Streak:
+  <p align="center">
+    <a href="https://git.io/streak-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=IT21158704&theme=radical" alt="GitHub Streak">
+    </a>
+  </p>
+- GitHub Stats:
+  <p align="center">
+    <a href="https://github.com/IT21158704/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=IT21158704&theme=radical" alt="GitHub Stats">
+    </a>
+    </a>
+  </p>
 
-- 📫 How to reach me: nadun.dilshan.733@gmail.com
-- 🌱 Languages and Tools: 
+- GitHub Awards:
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=IT21158704&theme=onedark" alt="IT21158704" /></a>
+  
+  </p>
 
-<div>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-        <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-        <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    </div>
+
+  
+If you have any further questions or need assistance, feel free to ask! You can reach me at <a href="https://www.linkedin.com/in/nadun-dilshan">LinkedIn</a>.
