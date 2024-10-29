@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nadun-dilshan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nadun-dilshan/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/nadun-dilshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nadun-dilshan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27456826" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nadun-dilshan" height="30" width="40" /></a>
 <a href="https://fb.com/ktdnadun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ktdnadun" height="30" width="40" /></a>
 <a href="https://instagram.com/nadun._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nadun._" height="30" width="40" /></a>
 </p>
