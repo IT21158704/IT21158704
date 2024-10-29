@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **nadun.dev@outlook.com**
 
-- 📄 Know about my experiences [https://nadundilshan.netlify.app/components/Nadun_Dilshan_Software_Engineer_Intern.pdf](https://nadundilshan.netlify.app/components/Nadun_Dilshan_Software_Engineer_Intern.pdf)
+- 📄 Know about my experiences [CV](https://nadundilshan.netlify.app/components/Nadun_Dilshan_Software_Engineer_Intern.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
