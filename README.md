@@ -83,61 +83,6 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
   
 </div>
 
-## 🔥 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 💼 Featured Projects
-
-### 🌟 [Project Portfolio](https://nadundilshan.netlify.app/)
-**Description**: My personal portfolio website showcasing all my projects, skills, and experience as a Software Engineer.
-- 🔧 **Tech Stack**: React, Next.js, Tailwind CSS, TypeScript
-- ⭐ **Features**: Responsive design, Project showcase, Resume download, Contact form
-- 🚀 **Live Demo**: [View Portfolio](https://nadundilshan.netlify.app/)
-
-### 🌟 [Full Stack E-Commerce Platform](https://github.com/IT21158704/ecommerce-platform)
-**Description**: A complete e-commerce solution with admin dashboard, user authentication, and payment integration.
-- 🔧 **Tech Stack**: MERN Stack, Tailwind CSS, Stripe API
-- ⭐ **Features**: User authentication, Shopping cart, Payment processing, Admin panel
-- 🚀 **Live Demo**: [View Demo](#)
-
-### 🌟 [Task Management System](https://github.com/IT21158704/task-manager)
-**Description**: A collaborative task management application with real-time updates and team collaboration features.
-- 🔧 **Tech Stack**: Next.js, Node.js, MongoDB, Socket.io
-- ⭐ **Features**: Real-time collaboration, Task assignment, Progress tracking, Team chat
-- 🚀 **Live Demo**: [View Demo](#)
-
-### 🌟 [Laravel API Backend](https://github.com/IT21158704/laravel-api)
-**Description**: A robust REST API backend built with Laravel for mobile and web applications.
-- 🔧 **Tech Stack**: Laravel, PHP, MySQL, JWT Authentication
-- ⭐ **Features**: RESTful API, Authentication, Database migrations, API documentation
-- 🚀 **API Docs**: [View Documentation](#)
-
-## 💡 What I'm Currently Working On
-
-- 🔭 **@Botcalm**: Contributing to innovative software solutions as a Software Engineer Intern
-- 🌱 **Learning**: Advanced TypeScript patterns and microservices architecture
-- 🚀 **Building**: Next.js applications with server-side rendering and API routes
-- 📚 **Exploring**: AI/ML integration in web applications
-
-## 🎯 2024 Goals
-
-- ✅ Land a Software Engineer Intern position (Achieved at Botcalm!)
-- 🔄 Contribute to 5+ open-source projects
-- 📈 Build and deploy 10+ full-stack applications
-- 🎓 Master advanced React patterns and performance optimization
-- 🌟 Grow my GitHub followers and engagement
-
-## 📝 Latest Blog Posts & Articles
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with Next.js](#)
-- [MERN Stack Best Practices for 2024](#)
-- [Laravel API Development: A Complete Guide](#)
-- [Tailwind CSS Tips and Tricks](#)
-<!-- BLOG-POST-LIST:END -->
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -159,11 +104,6 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
   
 </div>
 
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ---
 
 <div align="center">
@@ -172,26 +112,15 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
   
   *"Code is like humor. When you have to explain it, it's bad." - Cory House*
   
-  ![Snake animation](https://github.com/IT21158704/IT21158704/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://raw.githubusercontent.com/IT21158704/IT21158704/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+  <!-- Alternative: Simple animated contribution graph -->
+  <img src="https://github.com/IT21158704/IT21158704/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <!-- If snake doesn't work, use this animated wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave animation" />
   
 </div>
-
-## 🔧 Quick Setup Guide
-
-Want to create a similar README? Here's how:
-
-1. **Fork this repository** and rename it to your username
-2. **Replace all instances** of `IT21158704` with your GitHub username
-3. **Update personal information** (name, email, portfolio links)
-4. **Customize the tech stack** badges to match your skills
-5. **Add your actual projects** in the featured projects section
-6. **Set up GitHub Actions** for automatic updates (optional)
-
-### Optional Automations:
-- **Recent Activity**: Use GitHub Actions to auto-update recent activity
-- **Blog Posts**: RSS feed integration for automatic blog post updates
-- **Wakatime**: Add coding time tracking statistics
-- **Snake Game**: Contribution graph snake animation
 
 ---
 
