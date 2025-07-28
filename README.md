@@ -115,7 +115,7 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
   <img src="https://raw.githubusercontent.com/IT21158704/IT21158704/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   <!-- Alternative: Simple animated contribution graph -->
-  <img src="https://github.com/IT21158704/IT21158704/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <!-- <img src="https://github.com/IT21158704/IT21158704/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
   
   <!-- If snake doesn't work, use this animated wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave animation" />
