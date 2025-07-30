@@ -57,13 +57,13 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=IT21158704&color=brightgreen&style=flat-square&label=Profile+Views)
+  ![Profile Views](https://komarev.com/ghpvc/?username=nadun-dilshan&color=brightgreen&style=flat-square&label=Profile+Views)
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IT21158704&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadun-dilshan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21158704&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadun-dilshan&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21158704&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nadun-dilshan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   
 </div>
 
@@ -71,7 +71,7 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=IT21158704&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nadun-dilshan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4)
   
 </div>
 
@@ -79,7 +79,7 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IT21158704&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nadun-dilshan&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=58a6ff&area=true)
   
 </div>
 
@@ -92,7 +92,7 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nadun.dev@outlook.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nadundilshan)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nadundilshan)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IT21158704)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nadun-dilshan)
   
 </div>
 
@@ -108,14 +108,14 @@ I'm a passionate **Software Engineer Intern** at **Botcalm** with expertise in *
 
 <div align="center">
   
-  **🌟 From [Nadun Dilshan](https://github.com/IT21158704) - Thanks for visiting! 🚀**
+  **🌟 From [Nadun Dilshan](https://github.com/nadun-dilshan) - Thanks for visiting! 🚀**
   
   *"Code is like humor. When you have to explain it, it's bad." - Cory House*
   
-  <img src="https://raw.githubusercontent.com/IT21158704/IT21158704/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/nadun-dilshan/nadun-dilshan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   
   <!-- Alternative: Simple animated contribution graph -->
-  <!-- <img src="https://github.com/IT21158704/IT21158704/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
+  <!-- <img src="https://github.com/nadun-dilshan/nadun-dilshan/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" /> -->
   
   <!-- If snake doesn't work, use this animated wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Wave animation" />
